@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "KalpanaSri",
+      "lastName": "Balu",
+      "email": "admin123@gmail.com",
+      "dob": "1999-11-14T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "ABC",
+      "experience": 2.5,
+      "package": 350000,
+      "id": 1
+    },
+    {
+      "firstName": "Meena",
+      "lastName": "sri",
+      "email": "meenu@gmail.com",
+      "dob": "1998-10-05T18:30:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "ABC",
+      "experience": 1.5,
+      "package": 30000,
+      "id": 2
+    },
+    {
+      "firstName": "Ravi",
+      "lastName": "C",
+      "email": "r123@gmail.com",
+      "dob": "1993-03-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "Google",
+      "experience": 3,
+      "package": 200000,
+      "id": 3
+    },
+    {
+      "firstName": "Sundar",
+      "lastName": "vijay",
+      "email": "vij123@gmail.com",
+      "dob": "1997-05-21T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Facebook",
+      "experience": 3,
+      "package": 250000,
+      "id": 4
+    },
+    {
+      "firstName": "Vijay",
+      "lastName": "gopi",
+      "email": "gopi@gmail.com",
+      "dob": "2001-09-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "XXX",
+      "experience": 1.5,
+      "package": 90000,
+      "id": 6
+    },
+    {
+      "firstName": "David",
+      "lastName": "Peter",
+      "email": "peter@gamil.com",
+      "dob": "1992-11-23T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Yahoo",
+      "experience": 5,
+      "package": 500000,
+      "id": 7
+    }
+  ]
+}
